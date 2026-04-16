@@ -17,7 +17,7 @@ A modern **glassmorphism-inspired React dashboard UI** featuring a calendar syst
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="45%" />
+  <img src="./assets/dashboard.png" width="45%" />
 </p>
 
 ## 🚀 Tech Stack
