@@ -1,15 +1,12 @@
 # 🌸 Glass Dashboard Calendar UI
 
-A modern **glassmorphism-inspired React dashboard UI** featuring a dynamic calendar system, animated card layout, and Apple-style visual interactions.
+A modern **glassmorphism-inspired React dashboard UI** featuring a calendar system, animated card layout, and Apple-style visual interactions.
 
 ---
 
 ## ✨ Features
 
 - 🍏 Glassmorphism UI design
-- 📅 Fully dynamic calendar widget
-- 🗂️ Dashboard-style event system
-- 🟣 Event indicators on calendar days
 - 🎬 Smooth page animations (Framer Motion)
 - 🌊 Subtle floating UI motion effects
 - 📱 Responsive design (mobile + desktop)
@@ -19,13 +16,8 @@ A modern **glassmorphism-inspired React dashboard UI** featuring a dynamic calen
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here
-
 ### Main Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### Calendar View
-![Calendar](./screenshots/calendar.png)
+![Dashboard] (image.png)
 
 ---
 
