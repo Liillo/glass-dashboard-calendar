@@ -47,7 +47,7 @@ src/
 ├── App.jsx
 └── main.jsx
 
----
+```
 
 ## ⚙️ Installation & Setup
 
