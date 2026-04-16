@@ -55,11 +55,14 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Liillo/glass-dashboard-calendar.git
+```
 
 ## Install dependencies:
-
+```
 npm install
+```
 
 ## Run development server:
-
+```
 npm start
+```
